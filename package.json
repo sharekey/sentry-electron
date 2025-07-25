@@ -35,7 +35,7 @@
     "@sentry/core": "~5.13.2",
     "@sentry/minimal": "~5.13.2",
     "@sentry/node": "~5.13.2",
-    "@sentry/types": "~5.13.2",
+    "@sentry/types": "~5.30.0",
     "@sentry/utils": "~5.13.2",
     "electron-fetch": "^1.4.0",
     "form-data": "2.5.1",
