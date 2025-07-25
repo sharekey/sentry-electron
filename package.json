@@ -36,7 +36,7 @@
     "@sentry/minimal": "~5.13.2",
     "@sentry/node": "~5.13.2",
     "@sentry/types": "~5.13.2",
-    "@sentry/utils": "~5.13.2",
+    "@sentry/utils": "~5.30.0",
     "electron-fetch": "^1.4.0",
     "form-data": "2.5.1",
     "util.promisify": "1.0.1"
