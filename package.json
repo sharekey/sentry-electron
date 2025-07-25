@@ -33,7 +33,7 @@
   "dependencies": {
     "@sentry/browser": "~5.13.2",
     "@sentry/core": "~5.13.2",
-    "@sentry/minimal": "~5.13.2",
+    "@sentry/minimal": "~5.30.0",
     "@sentry/node": "~5.13.2",
     "@sentry/types": "~5.13.2",
     "@sentry/utils": "~5.13.2",
